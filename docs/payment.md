@@ -2,7 +2,7 @@
 
 Please use any payment method listed below.
 
-## LINE Pay (friennd code)
+## LINE Pay (friend code)
 
 ![QR LINE](img/qr-line.png)
 
