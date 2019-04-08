@@ -16,8 +16,8 @@ Please use any payment method listed below.
 
 ## PayPay
 
-[PayPay LINK](https://qr.paypay.ne.jp/28180101F3VDzaiSbejT8U2o?c=o_13PUe6vSp4bG73-jPu7rKTI9B-_9PAIT9N6Hzn0b-B1C8WTXNA0WMF1YRIjyy7)
-![QR PayPay](img/qr-paypay.png)
+Static link is not supported.
+Please search me by ID <strong>karszawa</strong>.
 
 ## Cash
 
