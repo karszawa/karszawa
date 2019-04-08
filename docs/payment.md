@@ -1,10 +1,8 @@
 # Payment method
 
-Please use any payment method listed below.
-
 ## LINE Pay (friend code)
 
-[LINE LINK](http://line.naver.jp/ti/p/lVYKl7QWHS)
+Use [LINE LINK](http://line.naver.jp/ti/p/lVYKl7QWHS)
 
 or
 
@@ -12,7 +10,7 @@ or
 
 ## Kyash
 
-[Kyash LINK](kyash://qr/u/2731019560484471989)
+Use [Kyash LINK](kyash://qr/u/2731019560484471989)
 
 or
 
