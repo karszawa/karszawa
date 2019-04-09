@@ -2,4 +2,4 @@
 
 - (payment)[/payment]
 
-![qr-payment](./img/qr-payment)
+![qr-payment](img/qr-payment)
