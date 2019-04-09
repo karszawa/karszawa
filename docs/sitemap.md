@@ -1,5 +1,5 @@
 # Site Map
 
-- (payment)[/payment]
+- [/payment](payment)
 
 ![qr-payment](img/qr-payment)
