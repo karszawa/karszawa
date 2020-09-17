@@ -1,6 +1,1 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=karszawa" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karszawa" />
-</a>
+![世界一かわいいキャット](https://github.com/karszawa/bio/blob/master/assets/cat-3.jpg)
