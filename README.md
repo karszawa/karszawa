@@ -15,17 +15,8 @@ Hiroaki KARASAWA
 
 1. dinii, inc. (April 2020 ~)
    - Seniar Principal Software Engineer
-
-```
-TODO:
-```
-
 2. Mercari, inc. (April 2019 ~ March 2020)
   - Web Front-end Engineer
-
-```
-TODO:
-```
 
 <details>
 <summary>Interns & Second jobs</summary>
@@ -38,10 +29,10 @@ TODO:
 - TeamLab, inc. (Summer intern)
 </details>
 
-## Skills
+<!-- ## Skills
 
-- Web Front-end technologies, such as JavaScript / TypeScript / React. I'm focusing on performance and architecture for that.
-- OSS
+- Web Front-end technologies, such as JavaScript / TypeScript / React (Performance and Architecture)
+- Agile development -->
 
 ## Talks
 
