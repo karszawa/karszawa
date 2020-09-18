@@ -13,10 +13,8 @@ Hiroaki KARASAWA
 
 ## Experience
 
-1. dinii, inc. (April 2020 ~)
-   - Seniar Principal Software Engineer
-2. Mercari, inc. (April 2019 ~ March 2020)
-  - Web Front-end Engineer
+1. SWE at dinii, inc. (April 2020 ~)
+2. SWE at Mercari, inc. (April 2019 ~ March 2020)
 
 <details>
 <summary>Interns & Second jobs</summary>
