@@ -43,6 +43,7 @@ Hiroaki KARASAWA
 
 ## Articles
 
+- [ダイニーのエンジニアリング3カ条](https://note.com/dinii/n/n9be778bd7da3)
 - [メルカリアプリのWebView向けWebアプリケーションの開発を支えるモック技術](https://engineering.mercari.com/blog/entry/2019-12-21-000000/)
 - [React-axe で React アプリケーションのアクセシビリティを向上させる](https://engineering.mercari.com/blog/entry/2019-06-18-190000/)
 - [授業で Firefox にコントリビュートした話](http://siquare.hatenablog.com/entry/2017/10/25/151600)
