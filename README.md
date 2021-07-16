@@ -34,6 +34,8 @@ Hiroaki KARASAWA
 
 ## Talks
 
+- [HASURA CON'21 Recap - GraphQL subscriptions](https://speakerdeck.com/karszawa/hasura-con-21-recap-graphql-subscriptions)
+  - HASURA CON'21 Recap / July 07, 2021
 - [Micro Frontends with Tailor](https://speakerdeck.com/karszawa/micro-frontends-with-tailor)
   - GINZA.JS #7 / December 09, 2019
 - [メルカリ ITP チームが開発速度とソフトウェア品質を高めるためにやっていること](https://speakerdeck.com/karszawa/how-to-handle-the-speed-and-the-quality-in-itp-team)
